@@ -2,6 +2,12 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12917) 
 
+### 소요 시간
+20 min
+
+### 시간 소요가 많이 걸린 이유
+문자열을 ord()로 변경 후 heapq에 넣었으나 큰 수부터 출력 하는 함수 nlargest()의 사용법을 몰라서 해맸다.
+
 ### 성능 요약
 
 메모리: 10.1 MB, 시간: 0.16 ms
