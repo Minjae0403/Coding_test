@@ -2,6 +2,9 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=python3) 
 
+### 최초 풀이 소요시간
+7분 47초
+
 ### 성능 요약
 
 메모리: 10.4 MB, 시간: 3.86 ms
