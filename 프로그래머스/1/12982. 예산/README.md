@@ -2,6 +2,12 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12982) 
 
+### 풀이 소요 시간
+19 min 17 sec
+
+### 시간 소요가 많이 걸린 이유
+3번 테스트에서 sort()의 시간 복잡도로 인한 시간 초과 -> heapq, heappop를 이용해서 시간 복잡도를 줄였다.
+
 ### 성능 요약
 
 메모리: 10.1 MB, 시간: 0.05 ms
